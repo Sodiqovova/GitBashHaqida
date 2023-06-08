@@ -61,6 +61,9 @@ GIT BUYRUQLARI
 
 28.git branch worked - worked degan branch yani filial yaratib beradi.
 
+men qo'shildim
+
+
 29.git branch - bu buyruqni yozsam endi menga 2 ta branch yani filial ko'rinadi, qaysi filial yashil rangda bo'lsa siz shu branchda turgan bo'lasiz.
 
 30.git checkout worked - bu buyruq bizga worked branchiga o'tkazib beradi.
