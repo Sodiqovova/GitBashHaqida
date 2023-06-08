@@ -75,3 +75,5 @@ GIT BUYRUQLARI
 
 35.git clone - githubdagi faylni nusxalaydi.
 
+36.Sodiqova Marjona
+
